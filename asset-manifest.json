@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Albertorodmans/USD.git/static/css/main.073c9b0a.css",
+    "main.js": "/Albertorodmans/USD.git/static/js/main.97c09b65.js",
+    "static/js/787.2f62f465.chunk.js": "/Albertorodmans/USD.git/static/js/787.2f62f465.chunk.js",
+    "static/media/logo.svg": "/Albertorodmans/USD.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Albertorodmans/USD.git/index.html",
+    "main.073c9b0a.css.map": "/Albertorodmans/USD.git/static/css/main.073c9b0a.css.map",
+    "main.97c09b65.js.map": "/Albertorodmans/USD.git/static/js/main.97c09b65.js.map",
+    "787.2f62f465.chunk.js.map": "/Albertorodmans/USD.git/static/js/787.2f62f465.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97c09b65.js"
+  ]
+}
